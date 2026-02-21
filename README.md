@@ -3,4 +3,3 @@ Bubble Pop is a browser-based bubble shooter game built with vanilla HTML, CSS, 
 
 🎮 Play here: https://pranaychaudhari.github.io/bubble-shooter
 
-Built with: HTML, CSS, JavaScript
